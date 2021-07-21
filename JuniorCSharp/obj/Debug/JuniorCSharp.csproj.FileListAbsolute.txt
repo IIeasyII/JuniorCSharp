@@ -1,0 +1,7 @@
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\bin\Debug\JuniorCSharp.exe.config
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\bin\Debug\JuniorCSharp.exe
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\bin\Debug\JuniorCSharp.pdb
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\obj\Debug\JuniorCSharp.csprojAssemblyReference.cache
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\obj\Debug\JuniorCSharp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\obj\Debug\JuniorCSharp.exe
+D:\Visual Studio\JuniorCSharp\JuniorCSharp\obj\Debug\JuniorCSharp.pdb
